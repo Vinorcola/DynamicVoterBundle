@@ -1,0 +1,3 @@
+# VinorcolaDynamicVoterBundle
+
+Work in progress...

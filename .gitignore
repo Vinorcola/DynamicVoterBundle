@@ -1,0 +1,10 @@
+/.idea/
+
+# PHPUnit
+/phpunit.xml
+coverage/
+/var
+
+# composer
+/vendor/
+/composer.lock
